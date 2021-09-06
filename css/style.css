@@ -31,18 +31,12 @@ p {
 
 .HIREME {
   border-color: #c48f00;
-  color: #ffb429;
+  background-color: orange;
+  color: white;
 }
 
-.HIREME:hover {
-  background-color: #070707;
-  color: orange;
-}
 .DOWNLOADCV {
-  border-color: orange;
-  color: orange;
-}
-.DOWNLOADCV:hover {
-  border-color: orange;
+  border-color: black;
   background-color: black;
+  color: orange;
 }
